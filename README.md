@@ -1,3 +1,5 @@
+![Header](/andybeckmann-github-header.jpg?raw=true)
+
 ## 📱 Mobile Applications
 
 - [CommitMeant.app](https://github.com/andybeckmann/CommitMeant.app) - Daily habit tracking and visualization

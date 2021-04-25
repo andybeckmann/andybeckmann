@@ -13,7 +13,7 @@
 - [AB_accordion](https://github.com/andybeckmann/AB_accordion) - Accordion component styles and JavaScript
 - [AB_mobile_navigation](https://github.com/andybeckmann/AB_mobile_navigation) - Mobile navigation styles and toggle
 - [AB_darkbox](https://github.com/andybeckmann/AB_darkbox) - An image lightbox with navigation and captions
-[more...](https://github.com/andybeckmann)
+- [...](https://github.com/andybeckmann)
 
 ## 🛠 Other
 
@@ -26,4 +26,3 @@
 - [LinkedIn.com/in/andybeckmann](https://www.linkedin.com/in/andybeckmann)
 - [Dribbble.com/andybeckmann](https://dribbble.com/andybeckmann)
 - [GitHub.com/andybeckmann](https://github.com/andybeckmann)
-- [Twitter.com/andybeckmann](https://twitter.com/andybeckmann)

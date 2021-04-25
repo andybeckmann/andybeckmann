@@ -1,6 +1,6 @@
 ## 📱 Mobile Applications
 
-- [CommitMeant.app](https://github.com/andybeckmann/CommitMeant.app) - Daily habit tracker
+- [CommitMeant.app](https://github.com/andybeckmann/CommitMeant.app) - Daily habit tracking and visualization
 - [11seconds.app](https://github.com/andybeckmann/11seconds.app) - Visual HRV breathing patterns
 
 ## 🏗 Vue JavaScript Components

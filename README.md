@@ -25,4 +25,3 @@
 
 - [LinkedIn.com/in/andybeckmann](https://www.linkedin.com/in/andybeckmann)
 - [Dribbble.com/andybeckmann](https://dribbble.com/andybeckmann)
-- [GitHub.com/andybeckmann](https://github.com/andybeckmann)

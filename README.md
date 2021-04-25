@@ -1,4 +1,5 @@
 | 📱 Mobile Apps | 🏗 Vue JavaScript Components |
+|-----------------|-------------------------------|
 | [CommitMeant.app](https://github.com/andybeckmann/CommitMeant.app) - Daily habit tracker | [FireVue](https://github.com/andybeckmann/FireVue) - Firebase Auth and RTDB templates using Vue |
 | [11seconds.app](https://github.com/andybeckmann/11seconds.app) - Visual HRV breathing patterns | [BaseBoost](https://github.com/andybeckmann/BaseBoost) - A collection of base components for Vue |
 | 🍦 Vanilla JavaScript Components | 🛠 Other |

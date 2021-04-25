@@ -1,25 +1,14 @@
-## 📱 Mobile Applications
+| 📱 Mobile Apps | 🏗 Vue JavaScript Components |
+|-----------------|-----------------
+| [CommitMeant.app](https://github.com/andybeckmann/CommitMeant.app) - Daily habit tracker | FireVue](https://github.com/andybeckmann/FireVue) - Firebase Auth and RTDB templates using Vue |
+| [11seconds.app](https://github.com/andybeckmann/11seconds.app) - Visual HRV breathing patterns | BaseBoost](https://github.com/andybeckmann/BaseBoost) - A collection of base components for Vue |
 
-- [CommitMeant.app](https://github.com/andybeckmann/CommitMeant.app) - Daily habit tracker
-- [11seconds.app](https://github.com/andybeckmann/11seconds.app) - Visual HRV breathing patterns
-
-## 🏗 Vue JavaScript Components
-
-- [FireVue](https://github.com/andybeckmann/FireVue) - Firebase Auth and RTDB templates using Vue
-- [BaseBoost](https://github.com/andybeckmann/BaseBoost) - A collection of base components for Vue
-
-## 🍦 Vanilla JavaScript Components
-
-- [AB_accordion](https://github.com/andybeckmann/AB_accordion) - Accordion component styles and JavaScript
-- [AB_mobile_navigation](https://github.com/andybeckmann/AB_mobile_navigation) - Mobile navigation styles and toggle
-- [AB_darkbox](https://github.com/andybeckmann/AB_darkbox) - An image lightbox with navigation and captions
-- [...](https://github.com/andybeckmann)
-
-## 🛠 Other
-
-- [AB_web_tools](https://github.com/AB_web_tools) - Files for starting a web project with SCSS using Grunt
-- [Apache_directory_ui](https://github.com/andybeckmann/Apache_directory_ui) - List directory contents with PHP
-- [Code_Challenge](https://github.com/andybeckmann/Code_Challenge) - A collection of accepted code challenge submissions
+| 🍦 Vanilla JavaScript Components | 🛠 Other
+|-----------------------------------|
+| [AB_accordion](https://github.com/andybeckmann/AB_accordion) - Accordion component styles and JavaScript | AB_web_tools](https://github.com/AB_web_tools) - Files for starting a web project with SCSS using Grunt |
+| [AB_mobile_navigation](https://github.com/andybeckmann/) - Mobile navigation styles and toggle | Apache_directory_ui](https://github.com/andybeckmann/Apache_directory_ui) - List directory contents with PHP |
+| [AB_darkbox](https://github.com/andybeckmann/) - An image lightbox with navigation and captions | Code_Challenge](https://github.com/andybeckmann/Code_Challenge) - A collection of accepted code challenge submissions |
+| [more...](https://github.com/andybeckmann) |
 
 ## 👋 Social
 

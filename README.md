@@ -1,6 +1,6 @@
 ![Header](/andybeckmann-github-header.jpg?raw=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=andybeckmann&hide_border=true&hide=contribs,prs)
+![Stats](https://github-readme-stats.vercel.app/api?username=andybeckmann&hide_border=true&hide=contribs)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybeckmann&layout=compact&hide_border=true)
 
 ## 📱 Mobile Applications

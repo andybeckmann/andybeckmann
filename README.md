@@ -1,5 +1,11 @@
 ![Header](/andybeckmann-github-header.jpg?raw=true)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=andybeckmann&hide_border=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybeckmann&layout=compact)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andybeckmann)
+
 ## 📱 Mobile Applications
 
 - [CommitMeant.app](https://github.com/andybeckmann/CommitMeant.app) - Daily habit tracking and visualization
@@ -27,6 +33,3 @@
 
 - [LinkedIn.com/in/andybeckmann](https://www.linkedin.com/in/andybeckmann)
 - [Dribbble.com/andybeckmann](https://dribbble.com/andybeckmann)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andybeckmann)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybeckmann&layout=compact)

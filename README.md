@@ -2,7 +2,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=andybeckmann&hide_border=true)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybeckmann&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybeckmann&layout=compact&hide_border=true)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andybeckmann)
 

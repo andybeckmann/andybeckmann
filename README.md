@@ -29,3 +29,4 @@
 - [Dribbble.com/andybeckmann](https://dribbble.com/andybeckmann)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andybeckmann)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=##########&layout=compact)]

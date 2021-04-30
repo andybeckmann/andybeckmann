@@ -1,6 +1,6 @@
 ![Header](/andybeckmann-github-header.jpg?raw=true)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andybeckmann)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andybeckmann&hide_border=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybeckmann&layout=compact&hide_border=true)
 
 ## 📱 Mobile Applications

@@ -1,9 +1,7 @@
 ![Header](/andybeckmann-github-header.jpg?raw=true)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=andybeckmann&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybeckmann&layout=compact&hide_border=true)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andybeckmann)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andybeckmann&layout=compact&hide_border=true&hide=contribs,prs)
 
 ## 📱 Mobile Applications
 
@@ -32,3 +30,5 @@
 
 - [LinkedIn.com/in/andybeckmann](https://www.linkedin.com/in/andybeckmann)
 - [Dribbble.com/andybeckmann](https://dribbble.com/andybeckmann)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andybeckmann)
